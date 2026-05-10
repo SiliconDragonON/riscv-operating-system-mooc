@@ -34,6 +34,8 @@
 
   请添加微信 fangzhang1024 （标注 【汪辰老师】）加入。
 
+**注**：本课程针对 RVOS 部分于 2026 年 5 月发布了升级版，感兴趣的同学可以访问 <https://gitee.com/unicornx/xv6-riscv-step-by-step>。
+
 # 2. 运行环境
 
 推荐使用 Ubuntu 20.04，Ubuntu 20.04 是目前最新的 Ubuntu 长期稳定发行版，在这个环境下安装运行环境也最简单。
